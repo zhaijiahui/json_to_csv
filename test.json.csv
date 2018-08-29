@@ -1,0 +1,11 @@
+"protocol_application","protocol_probe","protocol_transport","timestamp","ip","raw_data","city_geoname_id","names_zh-CN","names_en","country_geoname_id","country_code","names_zh-CN","names_en","isp","continent_geoname_id","continent_code","names_zh-CN","names_en","subdivisions_geoname_id","subdivisions_code","names_zh-CN","names_en","location_lat","location_lon","organization","aso","asn","portinfo_product","portinfo_extrainfo","portinfo_service","portinfo_hostname","portinfo_version","portinfo_device","portinfo_os","portinfo_port"
+"HTTP","GetRequest","tcp","2018-04-22T02:03:25","222.85.156.69","HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=188E35C2DB2E7B24E67F6C61DBF4D0F6; Path=/
+Location: http://localhost:6080/arcgis
+Content-Type: text/html
+Content-Length: 0
+Date: Sat, 21 Apr 2018 17:59:25 GMT
+Connection: close
+
+","1809461","贵阳","Guiyang","1814991","CN","中国","China","China Telecom Guizhou","6255147","AS","亚洲","Asia","1809445","GZ","贵州","Guizhou","26.5833","106.7167","China Telecom","No.31,Jin-rong Street","4134","Apache Tomcat/Coyote JSP engine","","http","","1.1","","","6080"
